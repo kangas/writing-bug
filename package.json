@@ -7,5 +7,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Matt Kangas <kangas@gmail.com>",
-  "license": "ISC"
+  "license": "Apache-2.0"
 }
